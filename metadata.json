@@ -1,0 +1,6 @@
+
+{
+  "name": "CampusSphere",
+  "description": "A centralized campus event discovery and registration platform for students and organizers, featuring AI-powered event suggestions and an organizer dashboard.",
+  "requestFramePermissions": ["geolocation"]
+}
